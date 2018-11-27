@@ -1,0 +1,4 @@
+# vectoragg extension
+comment = 'vector aggregation functions'
+default_version = '1.0'
+relocatable = true
